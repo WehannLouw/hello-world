@@ -32,11 +32,8 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> Git commit from local repo </h1>
-   <h1> Git commit from local repo </h1>
-   <h1> Git commit from local repo </h1>
-   <h1> Git commit from local repo </h1>
-   <h1> Git commit from local repo </h1>
+   <h1> Auto ansible </h1>
+   
 
   
 </form>
